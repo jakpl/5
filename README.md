@@ -5,7 +5,7 @@
 <img src="https://github.com/jakpl/5/blob/main/53.png" width="800" >
 
 # 3.RNN序列处理验证
-<img src="https://github.com/jakpl/5/blob/main/54.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/53.png" width="800" >
 
 # 4.模型性能评估
 <img src="https://github.com/jakpl/5/blob/main/51.png" width="800" >
