@@ -1,23 +1,23 @@
 # 1.数据预处理验证
-<img src="https://github.com/GMTX100/RNN/blob/master/2.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/52.png" width="800" >
 
 # 2.模型结构验证
-<img src="https://github.com/GMTX100/RNN/blob/master/3.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/53.png" width="800" >
 
 # 3.RNN序列处理验证
-<img src="https://github.com/GMTX100/RNN/blob/master/4.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/54.png" width="800" >
 
 # 4.模型性能评估
-<img src="https://github.com/GMTX100/RNN/blob/master/1.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/51.png" width="800" >
 
 # 5.推理能力验证
-<img src="https://github.com/GMTX100/RNN/blob/master/5.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/57.png" width="800" >
 
 # 6.无条件姓氏生成
-<img src="https://github.com/GMTX100/RNN/blob/master/6.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/55.png" width="800" >
 
 # 7.有条件姓氏生成
-<img src="https://github.com/GMTX100/RNN/blob/master/7.png" width="800" >
+<img src="https://github.com/jakpl/5/blob/main/56.png" width="800" >
 
 # 8.回答问题
 两个模型的核心差异体现在什么机制上？
